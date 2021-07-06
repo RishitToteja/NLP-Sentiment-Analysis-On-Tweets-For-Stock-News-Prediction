@@ -10,3 +10,5 @@ The results of the model came out to be:
 2) F1 Score : 81.53%
 3) Recall Score : 87.7%
 4) Accuracy Score : 75.41%
+
+ ![alt text](https://i.ytimg.com/vi/ujId4ipkBio/maxresdefault.jpg)
